@@ -1,0 +1,8 @@
+name: Hologram
+main: Hologram.Core
+version: 1.0
+commands:
+    HologramC:
+      decription: removes armorstand
+    HologramD:
+      decription: removes armorstand
